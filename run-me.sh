@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "this is code without any harm!"
+echo "I'm Linux and I love Microsoft Windows!"
