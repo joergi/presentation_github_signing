@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "this is really harmless code"
+echo "this is really harmless code - from Github.com"
