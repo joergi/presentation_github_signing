@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "Kelsey hates Kubernetes"
+echo "this is really harmful code"
